@@ -1,0 +1,82 @@
+{
+  "product": "Sweden Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-10T12:00:00",
+      "endDate": "2025-04-10T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "purple",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Easter Monday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-13T12:00:00",
+      "endDate": "2025-04-13T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "yellow",
+      "description": "Observance of the day after Easter Sunday"
+    },
+    {
+      "title": "National Day of Sweden",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-06T12:00:00",
+      "endDate": "2025-06-06T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of Sweden's national day"
+    },
+    {
+      "title": "Midsummer's Eve",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-06-20T12:00:00",
+      "endDate": "2025-06-20T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "green",
+      "description": "Traditional Swedish celebration of the summer solstice"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-26T12:00:00",
+      "endDate": "2025-12-26T12:00:00",
+      "source": "Government of Sweden",
+      "product": "Sweden Public Holidays 2025",
+      "style": "teal",
+      "description": "Traditional day for giving gifts to the less fortunate"
+    }
+  ]
+}
